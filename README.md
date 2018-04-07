@@ -1,2 +1,2 @@
 # MPN
-Mastering Python Networking book exercised
+Mastering Python Networking book exercises
